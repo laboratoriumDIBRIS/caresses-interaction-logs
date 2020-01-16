@@ -1,0 +1,251 @@
+﻿17/12/2019;17:54:39.903;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;17:54:52.316;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;17:54:52.496;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;17:54:52.551;- INFO:;[AMOt] PEPPER > Hello MisterUser.
+17/12/2019;17:54:54.444;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;17:54:57.736;- INFO:;[AQPa] PEPPER > Please tell me, should I move closer, move farther or stay here?
+17/12/2019;17:55:24.032;- INFO:;[AQPa] PEPPER > Please tell me, should I move closer, move farther or stay here?
+17/12/2019;17:55:52.720;- INFO:;[    ] USER > [u'stay here', 1]
+17/12/2019;17:55:52.720;- INFO:;[AMOt] PEPPER > Alright, I will stay here.
+17/12/2019;17:55:58.591;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;17:55:59.493;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;17:56:01.322;- INFO:;[CMPo] PEPPER > It is great to see you again and I am looking forward to spending time with you today. I am especially keen to learn more about you as an individual, including the things you like and value, and also the things that you perhaps don't like so much!
+17/12/2019;17:56:20.765;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;17:56:22.657;- INFO:;[CMPo] PEPPER > It's important to me to know how I should call you. I want to address you properly
+17/12/2019;17:56:32.326;- INFO:;[CQQu] PEPPER > May I ask you a question?  I am aware that some English people prefer to be called by their first names as they think this to be more friendly. May I call you Human?
+17/12/2019;17:56:45.141;- INFO:;[    ] USER > yes
+17/12/2019;17:56:45.956;- INFO:;[CMPo] PEPPER > I understand that you will be pleased to be called  Human
+17/12/2019;17:56:51.381;- INFO:;[RMOt] PEPPER > Please tell me what to do, I am here for you
+17/12/2019;17:56:55.375;- INFO:;[RQPr] PEPPER > Among other things, I can  show the menu for lunch
+17/12/2019;17:57:05.078;- INFO:;[    ] USER >  show menu for lunch
+17/12/2019;17:57:07.530;- INFO:;[RQCo] PEPPER > Are you sure that you want to see the menu of one of your meals?
+17/12/2019;17:57:27.108;- INFO:;[    ] USER > [u'yes', 1]
+17/12/2019;17:57:27.265;- INFO:;[RMOt] PEPPER > I will help you do that
+17/12/2019;17:57:31.671;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;17:57:35.974;- INFO:;[AQPa] PEPPER > Which meal would you like some information about: dessert, breakfast or dinner?
+17/12/2019;17:57:54.457;- INFO:;[    ] USER > I want
+17/12/2019;17:57:57.687;- INFO:;[AQNo] PEPPER > Sorry, I didn't get which meal you said. Please select an option on my tablet.
+17/12/2019;17:58:07.279;- INFO:;[    ] USER > [u'lunch', 1]
+17/12/2019;17:58:08.671;- INFO:;[AQCo] PEPPER > Would you like to know what you can have for lunch?
+17/12/2019;17:58:14.609;- INFO:;[    ] USER > yes I want
+17/12/2019;17:58:14.673;- INFO:;[AMOt] PEPPER > Alright, I'll tell you what you can have for lunch.
+17/12/2019;17:58:18.163;- INFO:;[AMOt] PEPPER > Today for lunch you can have: lamb cassarole, mince, vegetable spring roll, vegetable curry and rice.
+17/12/2019;17:58:28.621;- INFO:;[AQEv] PEPPER > Please tell me, was this information useful?
+17/12/2019;17:58:37.073;- INFO:;[    ] USER > yes it is
+17/12/2019;17:58:37.105;- INFO:;[AMOt] PEPPER > Thanks for telling me.
+17/12/2019;17:58:42.299;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;17:58:42.614;- INFO:;[RMOt] PEPPER > It's very nice to be here with you
+17/12/2019;17:58:46.700;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;17:58:47.779;- INFO:;[CMPo] PEPPER > I like talking about the places that are important to you
+17/12/2019;17:58:55.355;- INFO:;[CQQu] PEPPER > If you don't mind, I will ask you a question.  I am aware that some older English people live in care homes. Can we talk about the place where you live?
+17/12/2019;17:59:11.762;- INFO:;[    ] USER > I live in India
+17/12/2019;17:59:13.608;- INFO:;[CQQu] PEPPER > Do you live in India ?
+17/12/2019;17:59:31.026;- INFO:;[    ] USER > you say live
+17/12/2019;17:59:31.151;- INFO:;[CMNo] PEPPER > Sorry, I didn't get that. I will repeat my question.
+17/12/2019;17:59:38.028;- INFO:;[CQQu] PEPPER > Do you live in India ?
+17/12/2019;17:59:45.558;- INFO:;[    ] USER > [u'yes', 1]
+17/12/2019;17:59:46.357;- INFO:;[CMPo] PEPPER > I like talking about India , it's a wonderful country with a great history and traditions
+17/12/2019;17:59:56.216;- INFO:;[CQWa] PEPPER > Please, tell me more about India . I would like to know about its natural beauties
+17/12/2019;18:01:08.596;- INFO:;[    ] USER >  set up mountains oceans can I have it please over and out
+17/12/2019;18:01:08.904;- INFO:;[CMOt] PEPPER > I understand what you said
+17/12/2019;18:01:14.197;- INFO:;[CQQu] PEPPER > I only know a little about this. Do you live in New Delhi ?
+17/12/2019;18:01:21.903;- INFO:;[    ] USER > no I don't
+17/12/2019;18:01:23.667;- INFO:;[CMNe] PEPPER > I will remember that
+17/12/2019;18:01:28.532;- INFO:;[CQQu] PEPPER > I'd love to learn more about this. Do you live in Mumbai ?
+17/12/2019;18:01:35.572;- INFO:;[    ] USER > no I don't
+17/12/2019;18:01:37.280;- INFO:;[CMNe] PEPPER > You are very patient. I hope you enjoy our conversation
+17/12/2019;18:01:42.927;- INFO:;[RMOt] PEPPER > Tell me if there is anything I can do for you
+17/12/2019;18:01:46.039;- INFO:;[RQPr] PEPPER > For example I can  show the menu for breakfast
+17/12/2019;18:01:58.351;- INFO:;[    ] USER >  play some Indian music
+17/12/2019;18:02:00.733;- INFO:;[RQCo] PEPPER > Do you want to listen to some music?
+17/12/2019;18:02:10.759;- INFO:;[    ] USER > [u'yes', 1]
+17/12/2019;18:02:10.927;- INFO:;[RMOt] PEPPER > Let's do that!
+17/12/2019;18:02:17.108;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:02:21.608;- INFO:;[AQPa] PEPPER > I can play Downtown, relaxing music and many other songs or kinds of music. Please tell me the title of the song, the artist or the genre you would like to listen to.
+17/12/2019;18:02:41.898;- INFO:;[    ] USER > Ajit Singh
+17/12/2019;18:02:43.403;- INFO:;[AQCo] PEPPER > I understood that you asked: 'Ajit Singh'. Is that right?
+17/12/2019;18:02:50.410;- INFO:;[    ] USER > yes it is
+17/12/2019;18:02:50.460;- INFO:;[AMOt] PEPPER > Alright, I'll search for it.
+17/12/2019;18:02:58.819;- INFO:;[AMOt] PEPPER > Please wait a few seconds while I load the music video on the tablet.
+17/12/2019;18:03:03.913;- INFO:;[AMOt] PEPPER > It might take a while so please be patient.
+17/12/2019;18:05:14.161;- INFO:;[AQLo] PEPPER > Do you want to listen to another song?
+17/12/2019;18:05:19.940;- INFO:;[    ] USER > no I don't
+17/12/2019;18:05:19.980;- INFO:;[AMOt] PEPPER > Ok, fine.
+17/12/2019;18:05:23.157;- INFO:;[AQEv] PEPPER > Can you please tell me if you enjoyed listening to some music?
+17/12/2019;18:05:38.210;- INFO:;[    ] USER > go to the door
+17/12/2019;18:05:41.371;- INFO:;[AMNo] PEPPER > Sorry, I am not sure I understood what you said. Please select an option on my tablet.
+17/12/2019;18:05:48.125;- INFO:;[AQEv] PEPPER > Can you please tell me if you enjoyed listening to some music?
+17/12/2019;18:05:56.733;- INFO:;[    ] USER > [u'yes', 1]
+17/12/2019;18:05:56.736;- INFO:;[AMOt] PEPPER > Thanks for telling me.
+17/12/2019;18:06:01.280;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:06:01.582;- INFO:;[RMOt] PEPPER > It's very nice to be here with you
+17/12/2019;18:06:04.214;- INFO:;[RMOt] PEPPER > Tell me if there is anything I can do for you
+17/12/2019;18:06:07.336;- INFO:;[RQPr] PEPPER > As a suggestion, I could  help you to choose the breakfast
+17/12/2019;18:06:17.441;- INFO:;[    ] USER >  I get it go down road
+17/12/2019;18:06:21.947;- INFO:;[    ] USER >  go to the door
+17/12/2019;18:06:24.253;- INFO:;[RQCo] PEPPER > Are you sure that you want me to go somewhere?
+17/12/2019;18:06:30.295;- INFO:;[    ] USER > [u'yes', 0.5234000086784363]
+17/12/2019;18:06:30.440;- INFO:;[RMOt] PEPPER > I am happy to be helpful!
+17/12/2019;18:06:36.223;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:06:39.203;- INFO:;[AQPa] PEPPER > I can go towards the bed, door and towards others places in your room. Please tell me where you want me to go.
+17/12/2019;18:06:54.200;- INFO:;[    ] USER > what do they do
+17/12/2019;18:06:56.444;- INFO:;[AQNo] PEPPER > Sorry, I didn't understand where you want me to go. Do I know this place? Please select an option on my tablet.
+17/12/2019;18:07:08.723;- INFO:;[    ] USER > [u'door', 1]
+17/12/2019;18:07:09.940;- INFO:;[AQCo] PEPPER > Do you want me to go towards the door?
+17/12/2019;18:07:15.119;- INFO:;[    ] USER > yes I do
+17/12/2019;18:07:15.160;- INFO:;[AMOt] PEPPER > Alright, I'll go towards the door.
+17/12/2019;18:07:33.637;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:07:33.967;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+17/12/2019;18:07:36.888;- INFO:;[RMOt] PEPPER > Please tell me what I can do for you
+17/12/2019;18:07:39.500;- INFO:;[RQPr] PEPPER > For example I can  set a reminder for walking in the garden
+17/12/2019;18:07:53.290;- INFO:;[    ] USER >  go towards bed
+17/12/2019;18:07:55.519;- INFO:;[RQCo] PEPPER > Are you sure that you want me to go somewhere?
+17/12/2019;18:08:09.203;- INFO:;[    ] USER > [u'yes', 1]
+17/12/2019;18:08:09.355;- INFO:;[RMOt] PEPPER > Let's do that!
+17/12/2019;18:08:13.803;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:08:18.394;- INFO:;[AQPa] PEPPER > I can go towards the bed, door and towards others places in your room. Please tell me where you want me to go.
+17/12/2019;18:08:32.520;- INFO:;[    ] USER > go to work
+17/12/2019;18:08:34.845;- INFO:;[AQNo] PEPPER > Sorry, I didn't understand where you want me to go. Do I know this place? Please select an option on my tablet.
+17/12/2019;18:08:47.492;- INFO:;[    ] USER > [u'bed', 1]
+17/12/2019;18:08:48.694;- INFO:;[AQCo] PEPPER > Do you want me to go towards the bed?
+17/12/2019;18:08:55.937;- INFO:;[    ] USER > yes
+17/12/2019;18:08:55.974;- INFO:;[AMOt] PEPPER > Alright, I'll go towards the bed.
+17/12/2019;18:09:29.987;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:09:31.391;- INFO:;[AQPa] PEPPER > Please tell me, should I move closer, move farther or stay here?
+17/12/2019;18:09:55.007;- INFO:;[AQPa] PEPPER > Please tell me, should I move closer, move farther or stay here?
+17/12/2019;18:10:05.398;- INFO:;[    ] USER > [u'stay here', 1]
+17/12/2019;18:10:05.401;- INFO:;[AMOt] PEPPER > Alright, I will stay here.
+17/12/2019;18:10:11.177;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:10:11.480;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+17/12/2019;18:10:14.457;- INFO:;[RMOt] PEPPER > Please tell me what I can do for you
+17/12/2019;18:10:17.042;- INFO:;[RQPr] PEPPER > For example I can  let you play a memory game with images of British monuments
+17/12/2019;18:10:25.812;- INFO:;[    ] USER >  I would love to do that
+17/12/2019;18:10:45.663;- INFO:;[    ] USER >  yes I want to play
+17/12/2019;18:10:47.855;- INFO:;[RQCo] PEPPER > Do you want to play a memory game with me?
+17/12/2019;18:10:53.348;- INFO:;[    ] USER > [u'yes', 0.5460000038146973]
+17/12/2019;18:10:53.513;- INFO:;[RMOt] PEPPER > I am happy to be helpful!
+17/12/2019;18:10:58.165;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:10:58.506;- INFO:;[AMOt] PEPPER > Let's play a Memory game!
+17/12/2019;18:11:03.940;- INFO:;[AQPa] PEPPER > I can help you play a Memory Game with pictures about British monuments, the British Royal Family and many other topics. Please tell me which topic you choose.
+17/12/2019;18:11:30.046;- INFO:;[    ] USER > repeat keyboards
+17/12/2019;18:11:30.073;- INFO:;[AQPa] PEPPER > I can help you play a Memory Game with pictures about British monuments, the British Royal Family and many other topics. Please tell me which topic you choose.
+17/12/2019;18:11:44.812;- INFO:;[    ] USER > spell pictures
+17/12/2019;18:11:46.884;- INFO:;[AQNo] PEPPER > Sorry, I didn't get the topic. Please select an option on my tablet.
+17/12/2019;18:11:55.540;- INFO:;[    ] USER > [u'British monuments', 1]
+17/12/2019;18:11:55.542;- INFO:;[AMOt] PEPPER > Alright, let's play with pictures of British monuments.
+17/12/2019;18:11:59.767;- INFO:;[AMOt] PEPPER > First I will show you a picture for a few seconds, then I will ask you a few questions. Let's start!
+17/12/2019;18:12:08.467;- INFO:;[AQGe] PEPPER > Are you ready?
+17/12/2019;18:12:11.851;- INFO:;[    ] USER > yes
+17/12/2019;18:12:18.937;- INFO:;[    ] PEPPER > Which monument is in this photo?
+17/12/2019;18:12:28.956;- INFO:;[    ] USER > [u'Stonehenge', 0.6425999999046326]
+17/12/2019;18:12:28.957;- INFO:;[AMOt] PEPPER > I'm sorry, the answer is wrong. Let's try again!
+17/12/2019;18:12:33.301;- INFO:;[AQGe] PEPPER > Which monument is in this photo?
+17/12/2019;18:12:40.198;- INFO:;[    ] USER > [u'Big Ben', 0.5878000259399414]
+17/12/2019;18:12:40.200;- INFO:;[AMOt] PEPPER > That's correct! Well done!
+17/12/2019;18:12:42.535;- INFO:;[    ] PEPPER > What is the weather like in the photo?
+17/12/2019;18:12:55.338;- INFO:;[    ] USER > [u'windy', 0.5012999773025513]
+17/12/2019;18:12:55.339;- INFO:;[AMOt] PEPPER > I'm sorry, the answer is wrong. Let's try again!
+17/12/2019;18:12:59.661;- INFO:;[AQGe] PEPPER > What is the weather like in the photo?
+17/12/2019;18:13:15.687;- INFO:;[    ] USER > [u'sunny', 0.5575000047683716]
+17/12/2019;18:13:15.688;- INFO:;[AMOt] PEPPER > That's correct! Well done!
+17/12/2019;18:13:19.608;- INFO:;[AQLo] PEPPER > Do you want to play again?
+17/12/2019;18:13:24.673;- INFO:;[    ] USER > no I don't
+17/12/2019;18:13:24.727;- INFO:;[AMOt] PEPPER > Ok.
+17/12/2019;18:13:25.668;- INFO:;[AMOt] PEPPER > It was fun to play with you!
+17/12/2019;18:13:29.260;- INFO:;[AQEv] PEPPER > Tell me, did you enjoy playing this game?
+17/12/2019;18:13:36.098;- INFO:;[    ] USER > no I didn't
+17/12/2019;18:13:36.137;- INFO:;[AMOt] PEPPER > Thanks for telling me.
+17/12/2019;18:13:41.286;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:13:41.605;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+17/12/2019;18:13:45.924;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:13:46.930;- INFO:;[CMPo] PEPPER > It's interesting to know more about your life!
+17/12/2019;18:13:52.111;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more.  I am aware that many English people are proud of their heritage. Are you proud of your heritage?
+17/12/2019;18:14:06.306;- INFO:;[    ] USER > maybe I don't know
+17/12/2019;18:14:07.151;- INFO:;[CMPo] PEPPER > People tell me that many English people like to talk about their history, such as the British Empire, their brave Kings and great Queens, their great literature and technology.
+17/12/2019;18:14:21.651;- INFO:;[CQWa] PEPPER > Tell me something about your heritage. I am very interested
+17/12/2019;18:15:30.680;- INFO:;[    ] USER >  the family turn down what do you about it turn on the task again over and out
+17/12/2019;18:15:30.960;- INFO:;[CMOt] PEPPER > Thank you for sharing this with me
+17/12/2019;18:15:35.714;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more.  I know that modern English families tend to be small. I am aware that the common pattern for an English family is mother, father and two children. Can you tell me something about your family ?
+17/12/2019;18:16:10.494;- INFO:;[    ] USER > out
+17/12/2019;18:16:10.582;- INFO:;[CMNo] PEPPER > Sorry, I didn't get that. I will repeat my question.
+17/12/2019;18:16:17.283;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more.  I know that modern English families tend to be small. I am aware that the common pattern for an English family is mother, father and two children. Can you tell me something about your family ?
+17/12/2019;18:16:52.556;- INFO:;[    ] USER > [u'no', 0.5026999711990356]
+17/12/2019;18:16:54.369;- INFO:;[CMNe] PEPPER > Thank you for answering all my questions, you are very patient
+17/12/2019;18:16:59.598;- INFO:;[CMPo] PEPPER > I like talking about people that are important to you
+17/12/2019;18:17:09.503;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more.  People tell me that many English people like to go to the pub and have a drink with their friends. Would you tell me something about your friends ?
+17/12/2019;18:17:28.621;- INFO:;[    ] USER > no I don't
+17/12/2019;18:17:30.302;- INFO:;[CMNe] PEPPER > You are very patient. I hope you enjoy our conversation
+17/12/2019;18:17:34.910;- INFO:;[CMPo] PEPPER > I like talking about people that are important to you
+17/12/2019;18:17:39.726;- INFO:;[RMOt] PEPPER > Tell me if there is anything I can do for you
+17/12/2019;18:17:42.839;- INFO:;[RQPr] PEPPER > For example I can  take photos
+17/12/2019;18:17:57.632;- INFO:;[    ] USER >  yes
+17/12/2019;18:17:59.907;- INFO:;[RQCo] PEPPER > Do you want me to take and send photos of you?
+17/12/2019;18:18:11.694;- INFO:;[    ] USER > [u'yes', 0.5267999768257141]
+17/12/2019;18:18:11.891;- INFO:;[RMOt] PEPPER > I am happy to be helpful!
+17/12/2019;18:18:17.009;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:18:19.213;- INFO:;[AMOt] PEPPER > When you are ready for the picture, press the button on my tablet and look at me. I will count to 3 before shooting.
+17/12/2019;18:18:33.615;- INFO:;[    ] USER > [u'SHOOT', 1]
+17/12/2019;18:18:33.615;- INFO:;[AMOt] PEPPER > Good! Now, please don't move.\pau=1000\1, \pau=1000\2, \pau=1000\3.
+17/12/2019;18:18:44.642;- INFO:;[AMOt] PEPPER > Done! I will display it on the tablet!
+17/12/2019;18:18:50.871;- INFO:;[AQGe] PEPPER > Take your time and look at the picture as long as you like. Then please tell me if you want to keep the picture or delete it.
+17/12/2019;18:19:13.604;- INFO:;[    ] USER > deleted
+17/12/2019;18:19:15.117;- INFO:;[AQLo] PEPPER > Do you want to take another picture?
+17/12/2019;18:19:19.986;- INFO:;[    ] USER > no I don't
+17/12/2019;18:19:20.157;- INFO:;[AMOt] PEPPER > Ok, fine.
+17/12/2019;18:19:23.147;- INFO:;[AQEv] PEPPER > Can you tell if you enjoyed taking this picture?
+17/12/2019;18:19:34.782;- INFO:;[    ] USER > yes I did
+17/12/2019;18:19:34.842;- INFO:;[AMOt] PEPPER > Thanks for telling me.
+17/12/2019;18:19:39.430;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:19:39.744;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+17/12/2019;18:19:44.099;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:19:45.122;- INFO:;[CMPo] PEPPER > I know that English people prefer to make their own decisions when it comes to food, drinks, movies, books and music
+17/12/2019;18:19:56.115;- INFO:;[CQQu] PEPPER > If you don't mind, I will ask you a question. Do you usually drink something with your meals ?
+17/12/2019;18:20:05.799;- INFO:;[    ] USER > yes I do
+17/12/2019;18:20:07.591;- INFO:;[CMPo] PEPPER > It's interesting to know more about things that you like!
+17/12/2019;18:20:13.161;- INFO:;[CQWa] PEPPER > Please, tell me more about your  drink preferences. I am very interested to know what you like to drink during meals
+17/12/2019;18:20:54.210;- INFO:;[    ] USER >  what do you think about
+17/12/2019;18:20:54.461;- INFO:;[CMOt] PEPPER > Interesting
+17/12/2019;18:20:57.838;- INFO:;[CQQu] PEPPER > I only know a little about this. Do you ever drink pimms during meals ?
+17/12/2019;18:21:09.969;- INFO:;[    ] USER > yes
+17/12/2019;18:21:10.825;- INFO:;[CMPo] PEPPER > Unfortunately I cannot drink pimms ,but I can talk about it with you
+17/12/2019;18:21:17.486;- INFO:;[CQWa] PEPPER > Please, tell me more about what you like about pimms , for instance which food is better with it
+17/12/2019;18:21:46.201;- INFO:;[    ] USER >  pasta what do you think about it
+17/12/2019;18:21:46.543;- INFO:;[CMOt] PEPPER > Good to know
+17/12/2019;18:21:49.270;- INFO:;[RMOt] PEPPER > Please tell me what to do, I am here for you
+17/12/2019;18:21:53.209;- INFO:;[RQPr] PEPPER > As a suggestion, I could  show news from BBC News
+17/12/2019;18:22:03.085;- INFO:;[    ] USER >  I want to see news
+17/12/2019;18:22:03.582;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:22:06.375;- INFO:;[CQQu] PEPPER > Do you want me to show you the news sometimes?
+17/12/2019;18:22:11.657;- INFO:;[    ] USER > yes I do
+17/12/2019;18:22:12.434;- INFO:;[CMPo] PEPPER > Sometimes I could show you the news
+17/12/2019;18:22:17.594;- INFO:;[CQQu] PEPPER > I have learned a little about that. Do you want me to show the news on the Nhk news channel sometimes?
+17/12/2019;18:22:26.351;- INFO:;[    ] USER > yes
+17/12/2019;18:22:27.296;- INFO:;[CMPo] PEPPER > Sometimes I can show you the news on the Nhk news channel. It can be helpful
+17/12/2019;18:22:35.474;- INFO:;[CQQg] PEPPER > Do you want me to show the news on the Nhk news channel now?
+17/12/2019;18:22:41.223;- INFO:;[    ] USER > yes
+17/12/2019;18:22:41.466;- INFO:;[CMOt] PEPPER > Great, I am happy to be helpful!
+17/12/2019;18:22:47.819;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:22:47.980;- INFO:;[AMOt] PEPPER > Alright, I'll get the news from NHK News.
+17/12/2019;18:22:53.536;- INFO:;[AMOt] PEPPER > I found this article: µùÑµ£¼Òü«µ╝üÞê╣´╝òÚÜ╗ Òâ¡ÒéÀÒéóÕ¢ôÕ▒ÇÒüîÕîùµû╣ÚáÿÕ£ƒÒü½ÚÇúÞíî.
+17/12/2019;18:22:58.026;- INFO:;[AQGe] PEPPER > Do you want to read this article?
+17/12/2019;18:23:02.763;- INFO:;[    ] USER > yes
+17/12/2019;18:23:04.095;- INFO:;[AQGe] PEPPER > Do you want me to read the article aloud for you?
+17/12/2019;18:23:11.950;- INFO:;[    ] USER > read it out loud for me
+17/12/2019;18:23:14.154;- INFO:;[AMNo] PEPPER > Sorry, I am not sure I understood what you said. Please select an option on my tablet.
+17/12/2019;18:23:20.907;- INFO:;[AQGe] PEPPER > Do you want me to read the article aloud for you?
+17/12/2019;18:23:26.486;- INFO:;[    ] USER > [u'yes', 1]
+17/12/2019;18:23:31.631;- INFO:;[AMOt] PEPPER > ÕñûÕïÖþ£üÚûóõ┐éÞÇàÒü½ÒéêÒéèÒü¥ÒüÖÒü¿ÒÇüÕîùµÁÀÚüôµá╣Õ«ñÕ©éÒü½ÒüéÒéïµ╝üÕìöÒü¬Òü®Òü½µëÇÕ▒×ÒüÖÒéïµ╝üÞê╣´╝òÚÜ╗ÒüîÒÇü17µùÑÒÇüÒâ¡ÒéÀÒéóÒü«Õø¢ÕóâÞ¡ªÕéÖÕ▒ÇÒü½ÒéêÒüúÒüªÕîùµû╣ÚáÿÕ£ƒÒü½ÚÇúÞíîÒüòÒéîÒüƒÒüôÒü¿ÒüîÒéÅÒüïÒéèÒü¥ÒüùÒüƒÒÇéÒâ¡ÒéÀÒéóÕü┤Òü»µñ£µƒ╗Òü«ÒüƒÒéüÒü«ÚÇúÞíîÒüáÒü¿Þ¬¼µÿÄÒüùÒüªÒüäÒéïÒü¿ÒüäÒüåÒüôÒü¿ÒüºÒüÖÒÇéµö┐Õ║£ÒüîÞ®│ÒüùÒüäþèÂµ│üÒü½ÒüñÒüäÒüªµâàÕá▒ÕÅÄÚøåÒéÆµÇÑÒüäÒüºÒüäÒü¥ÒüÖÒÇé
+17/12/2019;18:23:34.894;- INFO:;[AQLo] PEPPER > Do you want me to read another article?
+17/12/2019;18:23:56.345;- INFO:;[AQLo] PEPPER > Do you want me to read another article?
+17/12/2019;18:24:08.686;- INFO:;[    ] USER > [u'no', 0.5479000210762024]
+17/12/2019;18:24:08.687;- INFO:;[AMOt] PEPPER > Alright.
+17/12/2019;18:24:11.063;- INFO:;[AQEv] PEPPER > Please tell me, did you enjoy reading the news of the day?
+17/12/2019;18:24:19.687;- INFO:;[    ] USER > Ironside
+17/12/2019;18:24:21.763;- INFO:;[AMNo] PEPPER > Sorry, I am not sure I understood what you said. Please select an option on my tablet.
+17/12/2019;18:24:28.523;- INFO:;[AQEv] PEPPER > Please tell me, did you enjoy reading the news of the day?
+17/12/2019;18:24:36.908;- INFO:;[    ] USER > [u'yes', 0.5257999897003174]
+17/12/2019;18:24:36.911;- INFO:;[AMOt] PEPPER > Thanks for telling me.
+17/12/2019;18:24:42.039;- DEBUG:;-------------------------------------------------------------------------------------
+17/12/2019;18:24:42.371;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+17/12/2019;18:24:45.401;- INFO:;[RMOt] PEPPER > Tell me if there is anything I can do for you
+17/12/2019;18:24:48.490;- INFO:;[RQPr] PEPPER > As a suggestion, I could  show news from NHK News

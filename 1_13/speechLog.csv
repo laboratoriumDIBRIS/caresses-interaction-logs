@@ -1,0 +1,183 @@
+15/01/2020;17:21:13.750;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:21:28.525;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:21:29.029;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:21:29.150;- INFO:;[AMOt] PEPPER > Hello MisterUser.
+15/01/2020;17:21:31.171;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:21:34.426;- INFO:;[AQPa] PEPPER > Please tell me, should I move closer, move farther or stay here?
+15/01/2020;17:21:50.349;- INFO:;[    ] USER > could you please repeat it
+15/01/2020;17:21:50.624;- INFO:;[AQPa] PEPPER > Please tell me, should I move closer, move farther or stay here?
+15/01/2020;17:22:06.063;- INFO:;[    ] USER > play Smooth FM
+15/01/2020;17:22:14.872;- INFO:;[AQNo] PEPPER > Sorry, I didn't get what you said. Please select an option on my tablet.
+15/01/2020;17:22:28.980;- INFO:;[    ] USER > [u'move farther', 1]
+15/01/2020;17:22:28.980;- INFO:;[AMOt] PEPPER > Alright, I will move farther.
+15/01/2020;17:22:36.640;- INFO:;[AQPa] PEPPER > Please tell me, should I move closer, move farther or stay here?
+15/01/2020;17:22:50.040;- INFO:;[    ] USER > stadia
+15/01/2020;17:22:53.653;- INFO:;[AQNo] PEPPER > Sorry, I didn't get what you said. Please select an option on my tablet.
+15/01/2020;17:23:03.815;- INFO:;[    ] USER > [u'stay here', 1]
+15/01/2020;17:23:03.815;- INFO:;[AMOt] PEPPER > Alright, I will stay here.
+15/01/2020;17:23:13.903;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:23:17.273;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:23:20.298;- INFO:;[CMPo] PEPPER > It is great to see you again and I am looking forward to spending time with you today. I am especially keen to learn more about you as an individual, including the things you like and value, and also the things that you perhaps don't like so much!
+15/01/2020;17:23:39.884;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:23:41.559;- INFO:;[CMPo] PEPPER > It's important to me to know how I should call you. I want to address you properly
+15/01/2020;17:23:50.819;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more.  I am aware that some English people prefer to be called by their first names as they think this to be more friendly. May I call you Human?
+15/01/2020;17:24:08.368;- INFO:;[    ] USER > call me with my name
+15/01/2020;17:24:08.648;- INFO:;[CMPo] PEPPER > It's important to me to know how I should call you. I want to address you properly
+15/01/2020;17:24:17.789;- INFO:;[CQQu] PEPPER > I only know a little about this.  I am aware that older English people prefer to be called by their last name. Should I call you Mister User?
+15/01/2020;17:24:29.167;- INFO:;[    ] USER > yes
+15/01/2020;17:24:29.553;- INFO:;[CMPo] PEPPER > I know that it is culturally appropriate to ask an English person how they prefer to be called.
+15/01/2020;17:24:38.891;- INFO:;[RMOt] PEPPER > Is there anything I can do for you?
+15/01/2020;17:24:41.292;- INFO:;[RQPr] PEPPER > For example I can  let you play a memory game with images of British life and events celebrations
+15/01/2020;17:25:09.039;- INFO:;[    ] USER >
+15/01/2020;17:25:12.575;- INFO:;[RQPr] PEPPER > Do you want me to show you some options on my tablet?
+15/01/2020;17:25:22.404;- INFO:;[    ] USER > [u'yes', 1]
+15/01/2020;17:25:24.898;- INFO:;[RQPr] PEPPER > I am happy to be helpful! These are the things that I can do for you.
+15/01/2020;17:25:43.684;- INFO:;[    ] USER > [u'Chitchat', 1]
+15/01/2020;17:26:00.285;- INFO:;[    ] USER > [u'Hobbies', 1]
+15/01/2020;17:26:01.332;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:26:04.671;- INFO:;[CQQu] PEPPER > People tell me that English people usually like to have hobbies. I know that some of the popular hobbies are  football, golf, gardening, book clubs and going to the cinema. I am aware that many men really love their football. Do you have any hobbies?
+15/01/2020;17:26:23.578;- INFO:;[    ] USER > yes
+15/01/2020;17:26:24.046;- INFO:;[CMPo] PEPPER > It is important to do things that give us enjoyment
+15/01/2020;17:26:30.006;- INFO:;[CQQu] PEPPER > If you don't mind, I will ask you a question.  I am aware that, in some parts of England, social clubs or working men’s clubs are part of culture.  Do you belong to any club?
+15/01/2020;17:26:44.592;- INFO:;[    ] USER > no
+15/01/2020;17:26:44.822;- INFO:;[CMNe] PEPPER > I understand, you prefer to spend your time in other ways
+15/01/2020;17:26:52.835;- INFO:;[CQQu] PEPPER > I'd love to learn more about this.  People tell me that many English people like reading books. I am aware that crime novels by Agatha Christie are very popular. Do you ever read books?
+15/01/2020;17:27:07.461;- INFO:;[    ] USER > yes
+15/01/2020;17:27:07.624;- INFO:;[CMPo] PEPPER > You should be very proud of reading a book !
+15/01/2020;17:27:13.221;- INFO:;[CQWa] PEPPER > Please, tell me how you feel after reading a book
+15/01/2020;17:28:17.724;- INFO:;[CQCo] PEPPER > Do you want me to repeat my last sentence?
+15/01/2020;17:28:24.069;- INFO:;[    ] USER > [u'yes', 1]
+15/01/2020;17:28:24.069;- INFO:;[    ] USER >  repeat
+15/01/2020;17:28:24.387;- INFO:;[CMOt] PEPPER > Sure
+15/01/2020;17:28:27.552;- INFO:;[CQWa] PEPPER > Please, tell me how you feel after reading a book
+15/01/2020;17:29:22.594;- INFO:;[CQCo] PEPPER > Do you want me to repeat my last sentence?
+15/01/2020;17:29:28.311;- INFO:;[    ] USER > [u'yes', 1]
+15/01/2020;17:29:28.312;- INFO:;[    ] USER >  good repeat
+15/01/2020;17:29:28.549;- INFO:;[CMOt] PEPPER > Sure, no problem
+15/01/2020;17:29:34.089;- INFO:;[CQWa] PEPPER > Please, tell me how you feel after reading a book
+15/01/2020;17:31:28.451;- INFO:;[    ] USER >  I feel very good I really like reading books over and out
+15/01/2020;17:31:32.066;- INFO:;[CQCo] PEPPER > Do you want me to read an audiobook for you?
+15/01/2020;17:31:37.858;- INFO:;[    ] USER > [u'yes', 0.7570000290870667]
+15/01/2020;17:31:37.858;- INFO:;[CMOt] PEPPER > I am happy to be helpful!
+15/01/2020;17:31:45.423;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:31:47.917;- INFO:;[AQPa] PEPPER > I can read Frankenstein, Middlemarch and many other audiobooks for you. Please tell me what book you would like me to read.
+15/01/2020;17:32:11.881;- INFO:;[    ] USER > secret
+15/01/2020;17:32:13.463;- INFO:;[AQCo] PEPPER > I understood that you asked: 'secret'. Is that correct?
+15/01/2020;17:32:23.336;- INFO:;[    ] USER > correct
+15/01/2020;17:32:23.388;- INFO:;[AMOt] PEPPER > Alright, I'll search for it.
+15/01/2020;17:32:26.653;- INFO:;[AMOt] PEPPER > Please wait a few seconds while I load the audiobook on the tablet.
+15/01/2020;17:32:34.553;- INFO:;[AMOt] PEPPER > It might take a while so please be patient.
+15/01/2020;17:35:58.190;- INFO:;[AQLo] PEPPER > Do you want me to read another book?
+15/01/2020;17:36:04.727;- INFO:;[    ] USER > no
+15/01/2020;17:36:04.773;- INFO:;[AMOt] PEPPER > Ok.
+15/01/2020;17:36:07.124;- INFO:;[AQEv] PEPPER > Can you please tell me if you enjoyed listening to this audiobook?
+15/01/2020;17:36:14.601;- INFO:;[    ] USER > no
+15/01/2020;17:36:14.654;- INFO:;[AMOt] PEPPER > Thanks for telling me.
+15/01/2020;17:36:20.913;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:36:21.618;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+15/01/2020;17:36:26.299;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:36:27.270;- INFO:;[CMPo] PEPPER > I like talking about the places that are important to you
+15/01/2020;17:36:34.213;- INFO:;[CQQu] PEPPER > I find that really interesting.  English people tell me that they normally sleep in their bedroom. Can we talk about the place where you sleep?
+15/01/2020;17:36:45.742;- INFO:;[    ] USER > yes
+15/01/2020;17:36:46.059;- INFO:;[CMPo] PEPPER > I am aware that some older English people living at home on their own may sometimes spend the night in an armchair in the living room. Especially in the winter, as the living room is usually the warmest room in the house.
+15/01/2020;17:37:06.950;- INFO:;[CQWa] PEPPER > Please, tell me more about the place where you sleep , if you like
+15/01/2020;17:37:37.648;- INFO:;[    ] USER >  I like cold places what about you
+15/01/2020;17:37:37.959;- INFO:;[CMOt] PEPPER > Ok, I understand
+15/01/2020;17:37:40.441;- INFO:;[CMPo] PEPPER > I like talking about the places that are important to you
+15/01/2020;17:37:47.673;- INFO:;[CQQu] PEPPER > I only know a little about this.  I am aware that some older English people live in care homes. Can we talk about the place where you live?
+15/01/2020;17:37:58.911;- INFO:;[    ] USER > yes
+15/01/2020;17:37:59.009;- INFO:;[CMPo] PEPPER > I like talking about the place where you live
+15/01/2020;17:38:05.107;- INFO:;[CQWa] PEPPER > Please, tell me more about the place where you live , if you like
+15/01/2020;17:38:50.148;- INFO:;[    ] USER >  I live in India hello over and out
+15/01/2020;17:38:50.418;- INFO:;[CMOt] PEPPER > Good to know
+15/01/2020;17:38:54.053;- INFO:;[CQQu] PEPPER > I'd love to learn more about this. Do you live in India ?
+15/01/2020;17:39:00.219;- INFO:;[    ] USER > yes
+15/01/2020;17:39:00.424;- INFO:;[CMPo] PEPPER > I like talking about India , it's a wonderful country with a great history and traditions
+15/01/2020;17:39:09.403;- INFO:;[CQWa] PEPPER > Please, tell me more about India . I would like to know about its natural beauties
+15/01/2020;17:39:58.994;- INFO:;[CQCo] PEPPER > Do you want me to go now?
+15/01/2020;17:40:14.503;- INFO:;[    ] USER > [u'no', 0.633899986743927]
+15/01/2020;17:40:14.505;- INFO:;[CMOt] PEPPER > Ok.
+15/01/2020;17:41:01.203;- INFO:;[    ] USER >  India is known for heritage  go to the door over and out
+15/01/2020;17:41:01.204;- INFO:;[CQCo] PEPPER > Are you sure that you want me to go somewhere?
+15/01/2020;17:41:12.234;- INFO:;[    ] USER > [u'yes', 1]
+15/01/2020;17:41:12.234;- INFO:;[CMOt] PEPPER > I will help you do that
+15/01/2020;17:41:17.773;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:41:19.904;- INFO:;[AQPa] PEPPER > I can go towards the door, bed and towards others places in your room. Please tell me where you want me to go.
+15/01/2020;17:41:30.798;- INFO:;[    ] USER > go to Tata
+15/01/2020;17:41:33.385;- INFO:;[AQNo] PEPPER > Sorry, I didn't understand where you want me to go. Do I know this place? Please select an option on my tablet.
+15/01/2020;17:41:45.224;- INFO:;[    ] USER > [u'door', 1]
+15/01/2020;17:41:46.516;- INFO:;[AQCo] PEPPER > Do you want me to go towards the door?
+15/01/2020;17:41:52.211;- INFO:;[    ] USER > yes
+15/01/2020;17:41:52.273;- INFO:;[AMOt] PEPPER > Alright, I'll go towards the door.
+15/01/2020;17:42:14.173;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:42:14.907;- INFO:;[RMOt] PEPPER > It's very nice to be here with you
+15/01/2020;17:42:17.578;- INFO:;[RMOt] PEPPER > Tell me if there is anything I can do for you
+15/01/2020;17:42:20.724;- INFO:;[RQPr] PEPPER > Among other things, I can  make an audio or video call to someone you know
+15/01/2020;17:42:47.555;- INFO:;[    ] USER >
+15/01/2020;17:42:50.292;- INFO:;[RQPr] PEPPER > Do you want me to show you some options on my tablet?
+15/01/2020;17:42:56.483;- INFO:;[    ] USER > [u'yes', 0.7218999862670898]
+15/01/2020;17:42:59.263;- INFO:;[RQPr] PEPPER > Please use the tablet to choose what I can do for you.
+15/01/2020;17:43:13.099;- INFO:;[    ] USER > [u'Make a Call', 0.5633000135421753]
+15/01/2020;17:43:17.635;- INFO:;[    ] USER > [u'a custom number', 0.6036999821662903]
+15/01/2020;17:43:17.871;- INFO:;[RMOt] PEPPER > Ok, let's do that!
+15/01/2020;17:43:23.259;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:43:24.572;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:43:24.624;- INFO:;[AMNo] PEPPER > I'm sorry, something went wrong with the execution of your last request. Please try again later.
+15/01/2020;17:43:32.289;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:43:32.551;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+15/01/2020;17:43:37.302;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:43:38.336;- INFO:;[CMPo] PEPPER > It's interesting to know more about your life!
+15/01/2020;17:43:45.395;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more.  I am aware that many English people are proud of their heritage. Are you proud of your heritage?
+15/01/2020;17:43:59.122;- INFO:;[    ] USER > yes
+15/01/2020;17:43:59.413;- INFO:;[CMPo] PEPPER > People tell me that many English people like to talk about their history, such as the British Empire, their brave Kings and great Queens, their great literature and technology.
+15/01/2020;17:44:13.755;- INFO:;[CQWa] PEPPER > Tell me something about your heritage. I am very interested
+15/01/2020;17:44:45.612;- INFO:;[    ] USER >  over and out
+15/01/2020;17:44:45.881;- INFO:;[CMOt] PEPPER > Thank you for sharing this with me
+15/01/2020;17:44:49.309;- INFO:;[RMOt] PEPPER > Please tell me what I can do for you
+15/01/2020;17:44:51.930;- INFO:;[RQPr] PEPPER > Among other things, I can  play relaxing music
+15/01/2020;17:45:06.026;- INFO:;[    ] USER >  is there a dating app
+15/01/2020;17:45:18.789;- INFO:;[    ] USER >  please play the number
+15/01/2020;17:45:39.289;- INFO:;[    ] USER >
+15/01/2020;17:45:42.190;- INFO:;[RQPr] PEPPER > Do you want me to show you some options on my tablet?
+15/01/2020;17:45:51.946;- INFO:;[    ] USER > [u'yes', 0.6194999814033508]
+15/01/2020;17:45:55.056;- INFO:;[RQPr] PEPPER > Great! Please select what you want me to do for you!
+15/01/2020;17:46:02.721;- INFO:;[    ] USER > [u'Make a Call', 0.5964999794960022]
+15/01/2020;17:46:07.423;- INFO:;[    ] USER > [u'a custom number', 0.5853999853134155]
+15/01/2020;17:46:07.591;- INFO:;[RMOt] PEPPER > I am happy to be helpful!
+15/01/2020;17:46:12.444;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:46:13.581;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:46:13.627;- INFO:;[AMNo] PEPPER > I'm sorry, something went wrong with the execution of your last request. Please try again later.
+15/01/2020;17:46:21.267;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:46:21.565;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+15/01/2020;17:46:24.661;- INFO:;[RMOt] PEPPER > Please tell me what I can do for you
+15/01/2020;17:46:27.969;- INFO:;[RQPr] PEPPER > For example I can  play on my tablet an highlight of the movie The Bridge on the River Kwai
+15/01/2020;17:46:51.135;- INFO:;[    ] USER >  make a call
+15/01/2020;17:46:53.414;- INFO:;[RQCo] PEPPER > Are you sure that you want to start a call?
+15/01/2020;17:46:59.351;- INFO:;[    ] USER > [u'yes', 0.6844000220298767]
+15/01/2020;17:46:59.476;- INFO:;[RMOt] PEPPER > I am happy to be helpful!
+15/01/2020;17:47:04.746;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:47:04.891;- INFO:;[AMOt] PEPPER > Fine, let me do that.
+15/01/2020;17:47:07.332;- INFO:;[AMOt] PEPPER > Please wait a few seconds.
+15/01/2020;17:47:09.907;- INFO:;[AMOt] PEPPER > Please, type the phone number that you want to call, without the international code. \pau=300\ When you are ready, press the OK button.
+15/01/2020;17:47:41.371;- INFO:;[AMOt] PEPPER > The phone call is about to start
+15/01/2020;17:47:43.878;- INFO:;[AMOt] PEPPER > When the call is over, please remember to touch my head.
+15/01/2020;17:49:07.499;- INFO:;[AQEv] PEPPER > Can I ask you about the Skype call? Do you think you will make a Skype call again in the future?
+15/01/2020;17:49:35.532;- INFO:;[AQEv] PEPPER > Can I ask you about the Skype call? Do you think you will make a Skype call again in the future?
+15/01/2020;17:49:55.848;- INFO:;[    ] USER > [u'EXIT', 1L]
+15/01/2020;17:49:55.849;- INFO:;[AMOt] PEPPER > Ok, fine.
+15/01/2020;17:49:57.647;- INFO:;[AMOt] PEPPER > I will stop the execution of the current task.
+15/01/2020;17:50:05.134;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:50:05.443;- INFO:;[RMOt] PEPPER > It's very nice to be here with you
+15/01/2020;17:50:09.585;- DEBUG:;-------------------------------------------------------------------------------------
+15/01/2020;17:50:10.466;- INFO:;[CMPo] PEPPER > I know that English people prefer to make their own decisions when it comes to food, drinks, movies, books and music
+15/01/2020;17:50:21.661;- INFO:;[CQQu] PEPPER > I only know a little about this.  I am aware that there are a number of traditional English dances, such as for instance Morris dancing. Do you like traditional dances?
+15/01/2020;17:50:44.348;- INFO:;[    ] USER > EXIT
+15/01/2020;17:50:44.612;- INFO:;[RMOt] PEPPER > Tell me if there is anything I can do for you
+15/01/2020;17:50:47.716;- INFO:;[RQPr] PEPPER > As a suggestion, I could  let you play a memory game with images of British life and events celebrations
+15/01/2020;17:51:16.217;- INFO:;[    ] USER >
+15/01/2020;17:51:18.229;- INFO:;[RQPr] PEPPER > If you're not sure what to choose, I can show you some of the things that I can do on my tablet. Would you like me to do that?
+15/01/2020;17:51:29.229;- INFO:;[    ] USER > [u'yes', 0.661300003528595]
+15/01/2020;17:51:31.434;- INFO:;[RQPr] PEPPER > Please use the tablet to choose what I can do for you.
+15/01/2020;17:51:38.203;- INFO:;[    ] USER > [u'EXIT', 1]
+15/01/2020;17:51:38.203;- INFO:;[    ] USER > ['', '']
+15/01/2020;17:51:41.641;- DEBUG:;-------------------------------------------------------------------------------------

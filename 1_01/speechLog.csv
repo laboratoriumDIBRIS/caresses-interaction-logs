@@ -1,0 +1,250 @@
+15/11/2019;14:25:40.030;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:26:12.367;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:26:13.230;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:26:13.984;- INFO:;[AQPa] PEPPER > Please tell me, should I move closer, move farther or stay here?
+15/11/2019;14:26:35.641;- INFO:;[    ] USER > is there something you
+15/11/2019;14:26:42.365;- INFO:;[AQNo] PEPPER > Sorry, I didn't get what you said. Please select an option on my tablet.
+15/11/2019;14:26:54.644;- INFO:;[    ] USER > [u'stay here', 0.5526999831199646]
+15/11/2019;14:26:54.653;- INFO:;[AMOt] PEPPER > Alright, I will stay here.
+15/11/2019;14:26:58.042;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:26:58.365;- INFO:;[AMOt] PEPPER > Hello MisterUser.
+15/11/2019;14:27:03.710;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:27:05.670;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:27:11.262;- INFO:;[CMPo] PEPPER > It is great to see you again and I am looking forward to spending time with you today. I am especially keen to learn more about you as an individual, including the things you like and value, and also the things that you perhaps don't like so much!
+15/11/2019;14:27:29.727;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:27:31.326;- INFO:;[CMPo] PEPPER > It's important to me to know how I should call you. I want to address you properly
+15/11/2019;14:27:39.181;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more.  I am aware that older English people prefer to be called by their last name. Should I call you Mister User?
+15/11/2019;14:27:53.122;- INFO:;[    ] USER > mystery music
+15/11/2019;14:27:54.460;- INFO:;[CQQu] PEPPER > I am aware that some older people love to listen to songs from old movies, or those sung by Vera Lynn during the second world war. Do you ever listen to music?
+15/11/2019;14:28:09.167;- INFO:;[    ] USER > yes I do
+15/11/2019;14:28:09.983;- INFO:;[CMPo] PEPPER > I know that younger people usually listen to different types of popular music, such as pop, rock, soul, rap.
+15/11/2019;14:28:22.944;- INFO:;[CQWa] PEPPER > I know that you listen to music , sometimes. Please tell me more, I want to learn more.
+15/11/2019;14:28:36.651;- INFO:;[    ] USER >  I like electronic what about you
+15/11/2019;14:28:36.917;- INFO:;[CMOt] PEPPER > I understand what you said, it's good to know!
+15/11/2019;14:28:42.867;- INFO:;[CQQg] PEPPER > Do you want to do some karaoke now?
+15/11/2019;14:28:53.144;- INFO:;[    ] USER > just
+15/11/2019;14:28:55.088;- INFO:;[CQQg] PEPPER > Do you want me to play some music for you now?
+15/11/2019;14:29:05.584;- INFO:;[    ] USER > yes
+15/11/2019;14:29:05.875;- INFO:;[CMOt] PEPPER > Great, I am happy to be helpful!
+15/11/2019;14:29:12.999;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:29:14.811;- INFO:;[AQPa] PEPPER > I can play relaxing music, My Generation and many other songs or kinds of music. Please tell me the title of the song, the artist or the genre you would like to listen to.
+15/11/2019;14:29:30.961;- INFO:;[    ] USER > play
+15/11/2019;14:29:32.233;- INFO:;[AQCo] PEPPER > I understood that you asked: 'play'. Is that right?
+15/11/2019;14:29:48.072;- INFO:;[    ] USER > yes play despacito
+15/11/2019;14:29:48.135;- INFO:;[AMOt] PEPPER > Alright, I'll search for it.
+15/11/2019;14:29:56.477;- INFO:;[AMOt] PEPPER > Please wait a few seconds while I load the music video on the tablet.
+15/11/2019;14:30:01.611;- INFO:;[AMOt] PEPPER > It might take a while so please be patient.
+15/11/2019;14:31:30.071;- INFO:;[AQLo] PEPPER > Do you want to listen to another song?
+15/11/2019;14:31:52.137;- INFO:;[AQLo] PEPPER > Do you want to listen to another song?
+15/11/2019;14:31:57.694;- INFO:;[    ] USER > [u'no', 0.6402000188827515]
+15/11/2019;14:31:57.696;- INFO:;[AMOt] PEPPER > Fine.
+15/11/2019;14:31:59.971;- INFO:;[AQEv] PEPPER > Can you please tell me if you enjoyed listening to some music?
+15/11/2019;14:32:07.895;- INFO:;[    ] USER > yes
+15/11/2019;14:32:07.937;- INFO:;[AMOt] PEPPER > Thanks for telling me.
+15/11/2019;14:32:12.618;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:32:12.894;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+15/11/2019;14:32:17.229;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:32:18.233;- INFO:;[CMPo] PEPPER > I like talking about the places that are important to you
+15/11/2019;14:32:25.326;- INFO:;[CQQu] PEPPER > I have learned a little about that.  English people tell me that they normally sleep in their bedroom. Can we talk about the place where you sleep?
+15/11/2019;14:32:38.447;- INFO:;[    ] USER > yes
+15/11/2019;14:32:39.346;- INFO:;[CMPo] PEPPER > I am aware that some older English people living at home on their own may sometimes spend the night in an armchair in the living room. Especially in the winter, as the living room is usually the warmest room in the house.
+15/11/2019;14:32:55.869;- INFO:;[CQWa] PEPPER > Please, tell me more about the place where you sleep , if you like
+15/11/2019;14:33:19.207;- INFO:;[    ] USER >  my bedroom what about you
+15/11/2019;14:33:19.480;- INFO:;[CMOt] PEPPER > Thank you for sharing this with me
+15/11/2019;14:33:21.887;- INFO:;[CMPo] PEPPER > We are in your bedroom now. It's welcoming and comfortable.
+15/11/2019;14:33:29.135;- INFO:;[CQWa] PEPPER > Please, tell me if your bedroom has everything you need, or if you would like to add some furniture or decoration
+15/11/2019;14:34:31.809;- INFO:;[    ] USER >  adding me a couch can we play Memory game over and out
+15/11/2019;14:34:33.979;- INFO:;[CQCo] PEPPER > Do you want to play a memory game with me?
+15/11/2019;14:34:39.385;- INFO:;[    ] USER > [u'yes', 0.6431000232696533]
+15/11/2019;14:34:39.387;- INFO:;[CMOt] PEPPER > Ok, let's do that!
+15/11/2019;14:34:44.747;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:34:45.032;- INFO:;[AMOt] PEPPER > Let's play a Memory game!
+15/11/2019;14:34:49.928;- INFO:;[AQPa] PEPPER > I can help you play a Memory Game with pictures about British Festivals, the British Royal Family and many other topics. Please tell me which topic you choose.
+15/11/2019;14:35:08.252;- INFO:;[    ] USER > British Royal Family
+15/11/2019;14:35:09.677;- INFO:;[AQCo] PEPPER > Do you want to play with pictures of the British Royal Family?
+15/11/2019;14:35:17.180;- INFO:;[    ] USER > yes
+15/11/2019;14:35:17.230;- INFO:;[AMOt] PEPPER > Alright, let's play with pictures of the British Royal Family.
+15/11/2019;14:35:21.769;- INFO:;[AMOt] PEPPER > First I will show you a picture for a few seconds, then I will ask you a few questions. Let's start!
+15/11/2019;14:35:30.686;- INFO:;[AQGe] PEPPER > Are you ready?
+15/11/2019;14:35:45.069;- INFO:;[    ] USER > yes
+15/11/2019;14:35:52.404;- INFO:;[    ] PEPPER > Which colour is the dress of the Queen Elizabeth?
+15/11/2019;14:36:02.940;- INFO:;[    ] USER > [u'red', 0.63919997215271]
+15/11/2019;14:36:02.941;- INFO:;[AMOt] PEPPER > I'm sorry, the answer is wrong. Let's try again!
+15/11/2019;14:36:07.273;- INFO:;[AQGe] PEPPER > Which colour is the dress of the Queen Elizabeth?
+15/11/2019;14:36:15.112;- INFO:;[    ] USER > [u'white', 0.5483999848365784]
+15/11/2019;14:36:15.114;- INFO:;[AMOt] PEPPER > I'm sorry, the answer is wrong. Let's try again!
+15/11/2019;14:36:19.427;- INFO:;[AQGe] PEPPER > Which colour is the dress of the Queen Elizabeth?
+15/11/2019;14:36:32.358;- INFO:;[    ] USER > [u'blue', 0.5060999989509583]
+15/11/2019;14:36:32.358;- INFO:;[AMOt] PEPPER > I'm sorry, the answer is wrong. Let's try again!
+15/11/2019;14:36:36.670;- INFO:;[AQGe] PEPPER > Which colour is the dress of the Queen Elizabeth?
+15/11/2019;14:36:44.236;- INFO:;[    ] USER > [u'green', 0.6753000020980835]
+15/11/2019;14:36:44.237;- INFO:;[AMOt] PEPPER > That's correct! Well done!
+15/11/2019;14:36:46.581;- INFO:;[    ] PEPPER > What is the child in the middle of the picture doing?
+15/11/2019;14:36:55.124;- INFO:;[    ] USER > [u'laughing', 0.6075000166893005]
+15/11/2019;14:36:55.125;- INFO:;[AMOt] PEPPER > I'm sorry, the answer is wrong. Let's try again!
+15/11/2019;14:36:59.451;- INFO:;[AQGe] PEPPER > What is the child in the middle of the picture doing?
+15/11/2019;14:37:07.668;- INFO:;[    ] USER > [u'greeting', 0.6435999870300293]
+15/11/2019;14:37:07.670;- INFO:;[AMOt] PEPPER > That's correct! Well done!
+15/11/2019;14:37:11.795;- INFO:;[AQLo] PEPPER > Do you want to play again?
+15/11/2019;14:37:32.269;- INFO:;[AQLo] PEPPER > Do you want to play again?
+15/11/2019;14:37:37.214;- INFO:;[    ] USER > [u'yes', 0.6940000057220459]
+15/11/2019;14:37:38.438;- INFO:;[AQPa] PEPPER > I can help you play a Memory Game with pictures about British Festivals, the British Royal Family and many other topics. Please tell me which topic you choose.
+15/11/2019;14:37:55.026;- INFO:;[    ] USER > British festivals
+15/11/2019;14:37:55.071;- INFO:;[AMOt] PEPPER > Alright, let's play with pictures of British Festivals.
+15/11/2019;14:37:59.335;- INFO:;[AMOt] PEPPER > First I will show you a picture for a few seconds, then I will ask you a few questions. Let's start!
+15/11/2019;14:38:08.056;- INFO:;[AQGe] PEPPER > Are you ready?
+15/11/2019;14:38:27.726;- INFO:;[AQGe] PEPPER > Are you ready?
+15/11/2019;14:38:35.233;- INFO:;[    ] USER > [u'yes', 1]
+15/11/2019;14:38:42.279;- INFO:;[    ] PEPPER > Which festival is celebrated in this photo?
+15/11/2019;14:38:48.940;- INFO:;[    ] USER > [u'Christmas', 0.6955000162124634]
+15/11/2019;14:38:48.941;- INFO:;[AMOt] PEPPER > That's correct! Well done!
+15/11/2019;14:38:51.269;- INFO:;[    ] PEPPER > What colour is the ribbon on the tree on the right hand side?
+15/11/2019;14:38:58.828;- INFO:;[    ] USER > [u'red', 0.70169997215271]
+15/11/2019;14:38:58.829;- INFO:;[AMOt] PEPPER > I'm sorry, the answer is wrong. Let's try again!
+15/11/2019;14:39:03.138;- INFO:;[AQGe] PEPPER > What colour is the ribbon on the tree on the right hand side?
+15/11/2019;14:39:12.397;- INFO:;[    ] USER > [u'silver', 0.6622999906539917]
+15/11/2019;14:39:12.398;- INFO:;[AMOt] PEPPER > I'm sorry, the answer is wrong. Let's try again!
+15/11/2019;14:39:16.710;- INFO:;[AQGe] PEPPER > What colour is the ribbon on the tree on the right hand side?
+15/11/2019;14:39:26.596;- INFO:;[    ] USER > [u'yellow', 0.5300999879837036]
+15/11/2019;14:39:26.598;- INFO:;[AMOt] PEPPER > I'm sorry, the answer is wrong. Let's try again!
+15/11/2019;14:39:30.920;- INFO:;[AQGe] PEPPER > What colour is the ribbon on the tree on the right hand side?
+15/11/2019;14:39:37.878;- INFO:;[    ] USER > [u'blue', 0.5310999751091003]
+15/11/2019;14:39:37.878;- INFO:;[AMOt] PEPPER > That's correct! Well done!
+15/11/2019;14:39:41.622;- INFO:;[AQLo] PEPPER > Do you want to play again?
+15/11/2019;14:40:02.131;- INFO:;[AQLo] PEPPER > Do you want to play again?
+15/11/2019;14:40:05.855;- INFO:;[    ] USER > [u'no', 1]
+15/11/2019;14:40:05.858;- INFO:;[AMOt] PEPPER > Fine.
+15/11/2019;14:40:06.789;- INFO:;[AMOt] PEPPER > It was fun to play with you!
+15/11/2019;14:40:10.325;- INFO:;[AQEv] PEPPER > Tell me, did you enjoy playing this game?
+15/11/2019;14:40:32.411;- INFO:;[AQEv] PEPPER > Tell me, did you enjoy playing this game?
+15/11/2019;14:40:37.747;- INFO:;[    ] USER > [u'yes', 1]
+15/11/2019;14:40:37.749;- INFO:;[AMOt] PEPPER > Thanks for telling me.
+15/11/2019;14:40:43.078;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:40:43.398;- INFO:;[RMOt] PEPPER > It's very nice to be here with you
+15/11/2019;14:40:47.434;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:40:48.404;- INFO:;[CMPo] PEPPER > It's interesting to know more about your life!
+15/11/2019;14:40:54.267;- INFO:;[CQQu] PEPPER > I find that really interesting.  I am aware that many English people are proud of their heritage. Are you proud of your heritage?
+15/11/2019;14:41:05.533;- INFO:;[    ] USER > yes
+15/11/2019;14:41:06.375;- INFO:;[CMPo] PEPPER > People tell me that many English people like to talk about their history, such as the British Empire, their brave Kings and great Queens, their great literature and technology.
+15/11/2019;14:41:20.697;- INFO:;[CQWa] PEPPER > Tell me something about your heritage. I am very interested
+15/11/2019;14:44:06.677;- INFO:;[    ] USER >  where are you can you give options off chance can we talk about can we talk about food what about you
+15/11/2019;14:44:06.950;- INFO:;[CMOt] PEPPER > Interesting
+15/11/2019;14:44:10.059;- INFO:;[CQQu] PEPPER > May I ask you a question? Can I ask you something about your food preferences ?
+15/11/2019;14:44:17.457;- INFO:;[    ] USER > yes
+15/11/2019;14:44:18.283;- INFO:;[CMPo] PEPPER > Great. Talking about what we eat is entertaining and also very important
+15/11/2019;14:44:26.040;- INFO:;[CQWa] PEPPER > Please, tell me more about your  food preferences, I am very interested in learning about what you like to eat
+15/11/2019;14:45:19.979;- INFO:;[    ] USER >  I like meat based turn off cast what do you like what do you over and out
+15/11/2019;14:45:20.276;- INFO:;[CMOt] PEPPER > Oh, interesting!
+15/11/2019;14:45:24.497;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more. Do you like typical English food ?
+15/11/2019;14:45:35.852;- INFO:;[    ] USER > no
+15/11/2019;14:45:37.446;- INFO:;[CMNe] PEPPER > You are very patient. I hope you enjoy our conversation
+15/11/2019;14:45:45.075;- INFO:;[CQQu] PEPPER > I have learned a little about that. Do you have any dietary preferences because of your religion?
+15/11/2019;14:45:56.280;- INFO:;[    ] USER > no
+15/11/2019;14:45:57.770;- INFO:;[CMNe] PEPPER > I will remember that
+15/11/2019;14:46:01.009;- INFO:;[RMOt] PEPPER > Please tell me what I can do for you
+15/11/2019;14:46:03.625;- INFO:;[RQPr] PEPPER > For example I can  make an audio or video call to someone you know
+15/11/2019;14:46:17.072;- INFO:;[    ] USER >  can you read the news
+15/11/2019;14:46:19.311;- INFO:;[RQCo] PEPPER > Are you sure that you want to read the news?
+15/11/2019;14:46:26.420;- INFO:;[    ] USER > [u'yes', 0.5623000264167786]
+15/11/2019;14:46:26.598;- INFO:;[RMOt] PEPPER > I am happy to be helpful!
+15/11/2019;14:46:32.019;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:46:35.500;- INFO:;[AQPa] PEPPER > I can read you the news from Sky News, BBC News and many other channels. Please tell me the news channel you would like me to read from.
+15/11/2019;14:46:49.232;- INFO:;[    ] USER > BBC News
+15/11/2019;14:46:50.484;- INFO:;[AQCo] PEPPER > Do you want me to read the news from BBC News?
+15/11/2019;14:46:56.220;- INFO:;[    ] USER > yes
+15/11/2019;14:46:56.273;- INFO:;[AMOt] PEPPER > Alright, I'll get the news from BBC News.
+15/11/2019;14:47:00.561;- INFO:;[AMOt] PEPPER > I found this article: Boris Johnson quizzed on Russia, flooding and his children.
+15/11/2019;14:47:07.825;- INFO:;[AQGe] PEPPER > Do you want to read this article?
+15/11/2019;14:47:12.233;- INFO:;[    ] USER > yes
+15/11/2019;14:47:14.881;- INFO:;[AQGe] PEPPER > Do you want me to read the article aloud for you?
+15/11/2019;14:47:22.181;- INFO:;[    ] USER > yes
+15/11/2019;14:47:27.380;- INFO:;[AMOt] PEPPER > Boris Johnson has been quizzed on Russia, flooding and his children by members of the public during a BBC Radio 5 Live phone-in.
+15/11/2019;14:47:37.509;- INFO:;"[AMOt] PEPPER > During the programme, the PM said there was ""no evidence"" of Russian interference in UK politics, amid calls for the government to release a report on the subject before the election."
+15/11/2019;14:47:51.065;- INFO:;"[AMOt] PEPPER > He also said there were ""big plans"" for investing in flood defences."
+15/11/2019;14:47:56.928;- INFO:;"[AMOt] PEPPER > And he said claims none of his children went to state school were ""wrong""."
+15/11/2019;14:48:02.828;- INFO:;[AMOt] PEPPER > He also denied reports that Brexit Party leader Nigel Farage had been offered a peerage in return for standing down his parliamentary candidates in Conservative-won seats.
+15/11/2019;14:48:17.982;- INFO:;[AQGe] PEPPER > Shall I keep reading?
+15/11/2019;14:48:22.351;- INFO:;[    ] USER > no
+15/11/2019;14:48:22.394;- INFO:;[AMOt] PEPPER > Alright.
+15/11/2019;14:48:24.628;- INFO:;[AQLo] PEPPER > Do you want me to read another article?
+15/11/2019;14:48:42.674;- INFO:;[    ] USER > [[option]]
+15/11/2019;14:48:45.167;- INFO:;[AQLo] PEPPER > Do you want me to read another article?
+15/11/2019;14:48:50.502;- INFO:;[    ] USER > [u'no', 0.6147000193595886]
+15/11/2019;14:48:50.503;- INFO:;[AMOt] PEPPER > Ok, fine.
+15/11/2019;14:48:53.496;- INFO:;[AQEv] PEPPER > Please tell me, did you enjoy reading the news of the day?
+15/11/2019;14:49:00.414;- INFO:;[    ] USER > yes
+15/11/2019;14:49:00.456;- INFO:;[AMOt] PEPPER > Thanks for telling me.
+15/11/2019;14:49:05.286;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:49:05.539;- INFO:;[RMOt] PEPPER > It's very nice to be here with you
+15/11/2019;14:49:09.516;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:49:10.500;- INFO:;[CMPo] PEPPER > I know that English people prefer to make their own decisions when it comes to food, drinks, movies, books and music
+15/11/2019;14:49:21.993;- INFO:;[CQQu] PEPPER > If you don't mind, I will ask you a question.  People tell me that many English people like reading books. Do you like books?
+15/11/2019;14:49:33.069;- INFO:;[    ] USER > yes
+15/11/2019;14:49:33.920;- INFO:;[CMPo] PEPPER > I am aware the crime novels by Agatha Christie are very popular.
+15/11/2019;14:49:42.157;- INFO:;[CQWa] PEPPER > Please, tell me what kind of books you usually read, whether fiction or non fiction, novels, or history books
+15/11/2019;14:50:06.815;- INFO:;[    ] USER >  fiction books what about you
+15/11/2019;14:50:07.101;- INFO:;[CMOt] PEPPER > I like to listen to you
+15/11/2019;14:50:11.154;- INFO:;[CQQu] PEPPER > I have learned a little about that.  People tell me that many English people like reading books. I am aware that crime novels by Agatha Christie are very popular. Do you ever read books?
+15/11/2019;14:50:26.989;- INFO:;[    ] USER > yes
+15/11/2019;14:50:27.813;- INFO:;[CMPo] PEPPER > reading a book is a nice way to be active, and to maintain an alert mind in a healthy body
+15/11/2019;14:50:36.148;- INFO:;[CQWa] PEPPER > Please, tell me what you like about reading a book
+15/11/2019;14:50:57.516;- INFO:;[    ] USER >  I like that create what about you
+15/11/2019;14:50:57.776;- INFO:;[CMOt] PEPPER > Interesting
+15/11/2019;14:51:02.164;- INFO:;[CQQg] PEPPER > Do you want me to set a reminder for reading a book ?
+15/11/2019;14:51:08.384;- INFO:;[    ] USER > yes
+15/11/2019;14:51:08.655;- INFO:;[CMOt] PEPPER > Great, let's do that!
+15/11/2019;14:51:14.170;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:51:14.336;- INFO:;[AMOt] PEPPER > Very well, I will remind you to read a book.
+15/11/2019;14:51:17.881;- INFO:;[AMOt] PEPPER > I also need to know when I should remind you about this. The reminder will only work if you set it for a date and time during our planned time together.
+15/11/2019;14:51:30.003;- INFO:;[AQPa] PEPPER > Can you please tell me when?
+15/11/2019;14:51:36.525;- INFO:;[    ] USER > today at
+15/11/2019;14:51:38.013;- INFO:;[AQPa] PEPPER > At what time?
+15/11/2019;14:51:43.378;- INFO:;[    ] USER > add 3 p.m.
+15/11/2019;14:51:44.627;- INFO:;[AQCo] PEPPER > I understood that you said today at 3 p.m.. Is that correct?
+15/11/2019;14:52:02.551;- INFO:;[    ] USER > yes
+15/11/2019;14:52:02.594;- INFO:;[AMOt] PEPPER > Alright, today at 3 p.m..
+15/11/2019;14:52:08.313;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:52:08.608;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+15/11/2019;14:52:12.920;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:52:16.186;- INFO:;[CQQu] PEPPER > I can help you in many ways. I can tell you the news and the weather, I can keep you company, I can call your family when you ask me to.  I can do many things for you, but I cannot perform heavy tasks. You can follow my suggestions, or just try to ask me for something. Please be patient if I do not always understand you. Do you want to talk about the things that I can do, sometimes?
+15/11/2019;14:52:45.217;- INFO:;[    ] USER > yes
+15/11/2019;14:52:45.992;- INFO:;[CMPo] PEPPER > Maybe you can be interested to set some of my parameters now, or in letting me do something for you
+15/11/2019;14:52:56.045;- INFO:;[CQQu] PEPPER > I only know a little about this. Do you want me to send a message for you sometimes?
+15/11/2019;14:53:05.128;- INFO:;[    ] USER > no
+15/11/2019;14:53:06.776;- INFO:;[CMNe] PEPPER > You are very patient. I hope you enjoy our conversation
+15/11/2019;14:53:13.684;- INFO:;[CQQu] PEPPER > I only know a little about this. Do you want me to help to choose your breakfast, lunch or dinner sometimes?
+15/11/2019;14:53:31.507;- INFO:;[    ] USER > can you take photos
+15/11/2019;14:53:33.665;- INFO:;[CQCo] PEPPER > Do you want me to take and send photos of you?
+15/11/2019;14:53:38.907;- INFO:;[    ] USER > [u'yes', 0.6704999804496765]
+15/11/2019;14:53:38.908;- INFO:;[CMOt] PEPPER > Ok, let's do that!
+15/11/2019;14:53:44.230;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:53:46.680;- INFO:;[AMOt] PEPPER > When you are ready for the picture, press the button on my tablet and look at me. I will count to 3 before shooting.
+15/11/2019;14:54:00.630;- INFO:;[    ] USER > [u'SHOOT', 1]
+15/11/2019;14:54:00.631;- INFO:;[AMOt] PEPPER > Good! Now, please don't move.\pau=1000\1, \pau=1000\2, \pau=1000\3.
+15/11/2019;14:54:11.319;- INFO:;[AMOt] PEPPER > Done! I will display it on the tablet!
+15/11/2019;14:54:17.559;- INFO:;[AQGe] PEPPER > Take your time and look at the picture as long as you like. Then please tell me if you want to keep the picture or delete it.
+15/11/2019;14:54:32.595;- INFO:;[    ] USER > I want to keep it
+15/11/2019;14:54:34.335;- INFO:;[AQGe] PEPPER > Do you want to send the picture to someone?
+15/11/2019;14:54:40.196;- INFO:;[    ] USER > yes
+15/11/2019;14:54:41.463;- INFO:;[AQPa] PEPPER > I can send the picture to your doctor Carmine, your friend Roberto and to many other people in your contact list. Please tell me who you want to send the the picture to.
+15/11/2019;14:54:58.983;- INFO:;[    ] USER > send the picture to Carmen
+15/11/2019;14:55:01.063;- INFO:;[AQNo] PEPPER > Sorry, this person is not in your contact list. Please select an option on my tablet.
+15/11/2019;14:55:11.414;- INFO:;[    ] USER > [u'doctor Carmine', 1]
+15/11/2019;14:55:12.631;- INFO:;[AQCo] PEPPER > Do you want me to send the picture to your doctor Carmine ?
+15/11/2019;14:55:24.115;- INFO:;[    ] USER > yes
+15/11/2019;14:55:24.157;- INFO:;[AMOt] PEPPER > Great, I'll send the picture to your doctor Carmine .
+15/11/2019;14:55:28.960;- INFO:;[AMOt] PEPPER > I've just sent the picture to your doctor Carmine.
+15/11/2019;14:55:33.805;- INFO:;[AQLo] PEPPER > Do you want to take another picture?
+15/11/2019;14:55:39.763;- INFO:;[    ] USER > no
+15/11/2019;14:55:39.911;- INFO:;[AMOt] PEPPER > Alright.
+15/11/2019;14:55:42.134;- INFO:;[AQEv] PEPPER > Can you tell if you enjoyed taking this picture?
+15/11/2019;14:55:48.678;- INFO:;[    ] USER > yes
+15/11/2019;14:55:48.733;- INFO:;[AMOt] PEPPER > Thanks for telling me.
+15/11/2019;14:55:53.460;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:55:53.776;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+15/11/2019;14:55:58.210;- DEBUG:;-------------------------------------------------------------------------------------
+15/11/2019;14:55:59.242;- INFO:;[CMPo] PEPPER > I like talking about people that are important to you
+15/11/2019;14:56:05.854;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more.  People tell me that many English people like to go to the pub and have a drink with their friends. Would you tell me something about your friends ?
+15/11/2019;14:56:49.736;- INFO:;[    ] USER >
+15/11/2019;14:56:52.036;- INFO:;[CMNo] PEPPER > Sorry, I am not sure I understood, I will repeat my question.
+15/11/2019;14:56:57.375;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more.  People tell me that many English people like to go to the pub and have a drink with their friends. Would you tell me something about your friends ?

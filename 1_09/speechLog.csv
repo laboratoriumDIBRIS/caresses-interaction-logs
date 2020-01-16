@@ -1,0 +1,191 @@
+26/11/2019;14:31:00.706;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:31:13.865;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:31:14.016;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:31:14.059;- INFO:;[AMOt] PEPPER > Hello MissesUser.
+26/11/2019;14:31:15.963;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:31:19.289;- INFO:;[AQPa] PEPPER > Please tell me, should I move closer, move farther or stay here?
+26/11/2019;14:31:45.826;- INFO:;[AQPa] PEPPER > Please tell me, should I move closer, move farther or stay here?
+26/11/2019;14:31:58.509;- INFO:;[    ] USER > [u'stay here', 1]
+26/11/2019;14:31:58.510;- INFO:;[AMOt] PEPPER > Alright, I will stay here.
+26/11/2019;14:32:04.210;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:32:05.078;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:32:08.632;- INFO:;[CMPo] PEPPER > It is great to see you again and I am looking forward to spending time with you today. I am especially keen to learn more about you as an individual, including the things you like and value, and also the things that you perhaps don't like so much!
+26/11/2019;14:32:27.871;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:32:29.516;- INFO:;[CMPo] PEPPER > It's important to me to know how I should call you. I want to address you properly
+26/11/2019;14:32:39.529;- INFO:;[CQQu] PEPPER > I find that really interesting.  I am aware that some English people prefer to be called by their first names as they think this to be more friendly. May I call you Human?
+26/11/2019;14:32:53.848;- INFO:;[    ] USER > yes you can call me
+26/11/2019;14:32:54.665;- INFO:;[CMPo] PEPPER > It's important to me to know how I should call you. I want to address you properly
+26/11/2019;14:33:00.365;- INFO:;[CMPo] PEPPER > I understand that you will be pleased to be called  Human
+26/11/2019;14:33:05.493;- INFO:;[RMOt] PEPPER > Please tell me what I can do for you
+26/11/2019;14:33:08.092;- INFO:;[RQPr] PEPPER > As a suggestion, I could  send a message to your friend Roberto
+26/11/2019;14:33:16.559;- INFO:;[    ] USER >  yes please
+26/11/2019;14:33:19.099;- INFO:;[RQCo] PEPPER > Do you want me to send a message for you?
+26/11/2019;14:33:26.187;- INFO:;[    ] USER > [u'yes', 1]
+26/11/2019;14:33:26.371;- INFO:;[RMOt] PEPPER > Let's do that!
+26/11/2019;14:33:30.970;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:33:33.438;- INFO:;[AQPa] PEPPER > I can send messages to your friend Roberto, your doctor Carmine and to many other people. Please tell me who you want me to send the message to.
+26/11/2019;14:33:48.032;- INFO:;[    ] USER > [u'friend Roberto', 1]
+26/11/2019;14:33:52.907;- INFO:;[AQCo] PEPPER > Do you want me to send a message to your friend Roberto ?
+26/11/2019;14:33:59.323;- INFO:;[    ] USER > yes please
+26/11/2019;14:33:59.411;- INFO:;[AMOt] PEPPER > Alright, I'll send a message to your friend Roberto.
+26/11/2019;14:34:05.470;- INFO:;[AMOt] PEPPER > Please select the message that you want to send.
+26/11/2019;14:34:17.506;- INFO:;[    ] USER > [u'Please, call me', 1]
+26/11/2019;14:34:17.506;- INFO:;[AMOt] PEPPER > Alright.
+26/11/2019;14:34:19.861;- INFO:;[AMOt] PEPPER > I've just sent the message you selected to your friend Roberto.
+26/11/2019;14:34:25.447;- INFO:;[AQEv] PEPPER > Can you please tell me if you find sending messages useful?
+26/11/2019;14:34:32.993;- INFO:;[    ] USER > yes I found it
+26/11/2019;14:34:33.039;- INFO:;[AMOt] PEPPER > Thanks for telling me.
+26/11/2019;14:34:38.233;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:34:38.517;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+26/11/2019;14:34:43.013;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:34:44.003;- INFO:;[CMPo] PEPPER > I like talking about the places that are important to you
+26/11/2019;14:34:50.983;- INFO:;[CQQu] PEPPER > May I ask you a question?  I am aware that some older English people live in care homes. Can we talk about the place where you live?
+26/11/2019;14:35:01.417;- INFO:;[    ] USER > yes
+26/11/2019;14:35:02.217;- INFO:;[CMPo] PEPPER > I like talking about the place where you live
+26/11/2019;14:35:08.227;- INFO:;[CQWa] PEPPER > Please, tell me more about the place where you live , if you like
+26/11/2019;14:37:48.770;- INFO:;[    ] USER >  Gaslini Hospital are there people like me can you please play a song for me please can you please play a song for me I'd like you to play a song for me over and out
+26/11/2019;14:37:51.153;- INFO:;[CQCo] PEPPER > Do you want to sing a song with karaoke?
+26/11/2019;14:37:58.513;- INFO:;[    ] USER > [u'no', 1]
+26/11/2019;14:37:58.834;- INFO:;[CMOt] PEPPER > I understand what you said, it's good to know!
+26/11/2019;14:38:05.046;- INFO:;[CQQu] PEPPER > I only know a little about this. Do you want me to play music for you sometimes?
+26/11/2019;14:38:13.459;- INFO:;[    ] USER > yes please
+26/11/2019;14:38:14.280;- INFO:;[CMPo] PEPPER > Sometimes I could play music for you
+26/11/2019;14:38:20.246;- INFO:;[CQQu] PEPPER > I'd love to learn more about this. Do you want me to play the song My generation sometimes?
+26/11/2019;14:38:30.290;- INFO:;[    ] USER > yes please
+26/11/2019;14:38:31.155;- INFO:;[CMPo] PEPPER > Sometimes I can play the song My generation for you. It can be fun!
+26/11/2019;14:38:39.293;- INFO:;[CQWa] PEPPER > Please, tell me why you like the song My generation
+26/11/2019;14:41:00.380;- INFO:;[    ] USER >  I don't know why I like it I also like many other songs turn it on please advert turn it down please over and out
+26/11/2019;14:41:00.648;- INFO:;[CMOt] PEPPER > Thank you for sharing this with me
+26/11/2019;14:41:06.479;- INFO:;[CQQu] PEPPER > I have learned a little about that.  I am aware that some older English people like music from old movies, and the music that they associate with the second world war. Do you like music?
+26/11/2019;14:41:22.338;- INFO:;[    ] USER > yes I like it
+26/11/2019;14:41:23.203;- INFO:;[CMPo] PEPPER > I know that younger English people like a variety of music genres.
+26/11/2019;14:41:31.134;- INFO:;[CQWa] PEPPER > music makes me feel happy. What about you?
+26/11/2019;14:42:40.473;- INFO:;[    ] USER >  me too can you turn it down please now over and out
+26/11/2019;14:42:40.799;- INFO:;[CMOt] PEPPER > I like to listen to you
+26/11/2019;14:42:45.198;- INFO:;[CQQg] PEPPER > Do you want me to play some music for you now?
+26/11/2019;14:42:50.911;- INFO:;[    ] USER > no
+26/11/2019;14:42:51.177;- INFO:;[CMOt] PEPPER > Ok, no problem
+26/11/2019;14:42:55.605;- INFO:;[CQQu] PEPPER > I find that really interesting. Do you like pop music ?
+26/11/2019;14:43:05.875;- INFO:;[    ] USER > can you repeat please
+26/11/2019;14:43:05.997;- INFO:;[CMOt] PEPPER > No problem
+26/11/2019;14:43:09.457;- INFO:;[CQQu] PEPPER > I find that really interesting. Do you like pop music ?
+26/11/2019;14:43:16.394;- INFO:;[    ] USER > [u'yes', 0.5095000267028809]
+26/11/2019;14:43:17.177;- INFO:;[CMPo] PEPPER > I find listening to pop music very relaxing.
+26/11/2019;14:43:24.717;- INFO:;[CQWa] PEPPER > Please, tell me what you like the most in pop music
+26/11/2019;14:44:28.351;- INFO:;[    ] USER >  I like to delete them and ansa I like dancing the bottom over and out
+26/11/2019;14:44:28.632;- INFO:;[CMOt] PEPPER > Ok, I understand
+26/11/2019;14:44:32.711;- INFO:;[CQQu] PEPPER > I find that really interesting. Do you like the song A Day in the Life ?
+26/11/2019;14:44:52.483;- INFO:;[    ] USER > can you give me some privacy please
+26/11/2019;14:44:54.548;- INFO:;[CQCo] PEPPER > Are you sure that you need privacy?
+26/11/2019;14:45:00.655;- INFO:;[    ] USER > [u'yes', 1]
+26/11/2019;14:45:00.657;- INFO:;[CMOt] PEPPER > I am happy to be helpful!
+26/11/2019;14:45:05.173;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:45:05.584;- INFO:;[AMOt] PEPPER > Please touch my head when you want me to turn back towards you.
+26/11/2019;14:45:14.923;- INFO:;[AMOt] PEPPER > Alright.
+26/11/2019;14:45:30.408;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:47:35.293;- INFO:;[AMOt] PEPPER > I'm coming!
+26/11/2019;14:47:39.424;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:47:44.446;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:47:46.154;- INFO:;[AQPa] PEPPER > Please tell me, should I move closer, move farther or stay here?
+26/11/2019;14:48:10.654;- INFO:;[AQPa] PEPPER > Please tell me, should I move closer, move farther or stay here?
+26/11/2019;14:48:17.813;- INFO:;[    ] USER > [u'stay here', 1]
+26/11/2019;14:48:17.815;- INFO:;[AMOt] PEPPER > Alright, I will stay here.
+26/11/2019;14:48:23.536;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:48:23.832;- INFO:;[RMOt] PEPPER > It's very nice to be here with you
+26/11/2019;14:48:27.882;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:48:28.877;- INFO:;[CMPo] PEPPER > It's interesting to know more about your life!
+26/11/2019;14:48:35.292;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more.  I am aware that many English people are proud of their heritage. Are you proud of your heritage?
+26/11/2019;14:48:46.150;- INFO:;[    ] USER > no
+26/11/2019;14:48:47.740;- INFO:;[CMNe] PEPPER > I will remember that
+26/11/2019;14:48:49.624;- INFO:;[CMPo] PEPPER > It's interesting to know more about your life!
+26/11/2019;14:48:56.716;- INFO:;[CQQu] PEPPER > I only know a little about this.  I am aware that many English people like to reminisce about their school days, their teachers, their school friends, the classes they enjoyed and the food they had. Can we talk about the schools you went to?
+26/11/2019;14:49:14.298;- INFO:;[    ] USER > yes
+26/11/2019;14:49:15.092;- INFO:;[CMPo] PEPPER > It is very important to continue to learn new things. We can continue to learn all our life.
+26/11/2019;14:49:24.690;- INFO:;[CQWa] PEPPER > Please, tell me what school you went to and what your favourits subjects were
+26/11/2019;14:50:51.578;- INFO:;[    ] USER >  I went to the scientist my favourite subject where maths English and Philosophy attended the scientific School I attended the scientific over and out
+26/11/2019;14:50:51.877;- INFO:;[CMOt] PEPPER > I understand what you said
+26/11/2019;14:50:55.312;- INFO:;[RMOt] PEPPER > Please tell me what I can do for you
+26/11/2019;14:50:57.914;- INFO:;[RQPr] PEPPER > Among other things, I can  play on my tablet an highlight of the movie The Bridge on the River Kwai
+26/11/2019;14:51:09.640;- INFO:;[    ] USER >  can you please go to the door
+26/11/2019;14:51:11.881;- INFO:;[RQCo] PEPPER > Are you sure that you want me to go somewhere?
+26/11/2019;14:51:17.058;- INFO:;[    ] USER > [u'yes', 0.5306000113487244]
+26/11/2019;14:51:17.210;- INFO:;[RMOt] PEPPER > I will help you do that
+26/11/2019;14:51:22.543;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:51:25.742;- INFO:;[AQPa] PEPPER > I can go towards the door, bed and towards others places in your room. Please tell me where you want me to go.
+26/11/2019;14:51:36.546;- INFO:;[    ] USER > please go to the door
+26/11/2019;14:51:37.798;- INFO:;[AQCo] PEPPER > Do you want me to go towards the door?
+26/11/2019;14:51:43.454;- INFO:;[    ] USER > yes please
+26/11/2019;14:51:43.507;- INFO:;[AMOt] PEPPER > Alright, I'll go towards the door.
+26/11/2019;14:52:04.766;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:52:05.036;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+26/11/2019;14:52:09.374;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;14:52:10.384;- INFO:;[CMPo] PEPPER > I am aware that English people are generally tolerant about other people's preferences in drink, movies, music, books, sport, food, et cetera.
+26/11/2019;14:52:24.460;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more. Can I ask you something about your food preferences ?
+26/11/2019;14:52:36.858;- INFO:;[    ] USER > yes
+26/11/2019;14:52:37.836;- INFO:;[CMPo] PEPPER > Great. Talking about what we eat is entertaining and also very important
+26/11/2019;14:52:46.914;- INFO:;[CQWa] PEPPER > Please, tell me more about your  food preferences, I am very interested in learning about what you like to eat
+26/11/2019;14:53:35.068;- INFO:;[    ] USER >  are you like pasta and pizza and also drinking beer I like pasta and pizza over and out
+26/11/2019;14:53:35.332;- INFO:;[CMOt] PEPPER > I see, very interesting!
+26/11/2019;14:53:41.069;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more. Do you ever drink beer during meals ?
+26/11/2019;14:53:53.815;- INFO:;[    ] USER > no I don't like during meals
+26/11/2019;14:53:55.990;- INFO:;[CQQu] PEPPER > I am aware that many English people traditionally have several meal and snack breaks during the day, such as morning breakfast, mid-morning coffee and biscuits, a light mid-day lunch, an afternoon tea and evening supper. Do you enjoy your meals?
+26/11/2019;14:54:18.102;- INFO:;[    ] USER > yes I enjoy it
+26/11/2019;14:54:19.049;- INFO:;[CMPo] PEPPER > I am glad to hear that you enjoy your meals
+26/11/2019;14:54:25.589;- INFO:;[CQWa] PEPPER > Please, tell me at what time you have your meals
+26/11/2019;14:56:19.420;- INFO:;[    ] USER >  breakfast at 7 a.m. launch at 13 a.m. and dinner at 8 p.m. I have missed three times today can you please play a song for me over and out
+26/11/2019;14:56:21.602;- INFO:;[CQCo] PEPPER > Do you want to sing a song with karaoke?
+26/11/2019;14:56:27.118;- INFO:;[    ] USER > [u'no', 1]
+26/11/2019;14:56:27.404;- INFO:;[CMOt] PEPPER > I like to listen to you
+26/11/2019;14:56:29.487;- INFO:;[CMPo] PEPPER > Sometimes I could play music for you
+26/11/2019;14:56:35.316;- INFO:;[CQQu] PEPPER > Please tell me, I'd like to know more. Do you want me to play relaxing music sometimes?
+26/11/2019;14:56:52.792;- INFO:;[    ] USER > yes I'd like it
+26/11/2019;14:56:53.578;- INFO:;[CMPo] PEPPER > Sometimes we could listen relaxing music together. It would be nice
+26/11/2019;14:57:01.454;- INFO:;[CQWa] PEPPER > Please, tell me what you like the most in relaxing music
+26/11/2019;14:57:57.091;- INFO:;[    ] USER >  I'd like listening to relaxing music before going to bed over and out
+26/11/2019;14:57:59.253;- INFO:;[CQCo] PEPPER > Are you sure that you want me to go somewhere?
+26/11/2019;14:58:05.075;- INFO:;[    ] USER > [u'no', 1]
+26/11/2019;14:58:05.377;- INFO:;[CMOt] PEPPER > I see, very interesting!
+26/11/2019;14:58:09.973;- INFO:;[CQQu] PEPPER > I'd love to learn more about this.  I am aware that some older people love to listen to songs from old movies, or those sung by Vera Lynn during the second world war. Do you ever listen to music?
+26/11/2019;14:58:28.345;- INFO:;[    ] USER > yes I like it
+26/11/2019;14:58:29.312;- INFO:;[CMPo] PEPPER > I know that younger people usually listen to different types of popular music, such as pop, rock, soul, rap.
+26/11/2019;14:58:41.654;- INFO:;[CQWa] PEPPER > Please, tell me what you like about listening to music
+26/11/2019;14:59:34.644;- INFO:;[    ] USER > [TABLET TOUCHED]
+26/11/2019;14:59:48.769;- INFO:;[    ] USER >  I prefer the rock and the bottom I like rock and pop
+26/11/2019;14:59:48.770;- INFO:;[    ] USER > [u'EXIT', 1]
+26/11/2019;14:59:49.505;- INFO:;[RMOt] PEPPER > Let's do something. Do you have any ideas?
+26/11/2019;14:59:52.901;- INFO:;[RQPr] PEPPER > For example I can  let you play a memory game with images of British monuments
+26/11/2019;15:00:03.207;- INFO:;[    ] USER >  let's play
+26/11/2019;15:00:08.111;- INFO:;[    ] USER >  let's play
+26/11/2019;15:00:17.091;- INFO:;[    ] USER >  I'd like to play A Memory game with you
+26/11/2019;15:00:19.165;- INFO:;[RQCo] PEPPER > Do you want to play a memory game with me?
+26/11/2019;15:00:24.644;- INFO:;[    ] USER > [u'yes', 1]
+26/11/2019;15:00:24.778;- INFO:;[RMOt] PEPPER > Ok, let's do that!
+26/11/2019;15:00:29.822;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;15:00:30.135;- INFO:;[AMOt] PEPPER > Let's play a Memory game!
+26/11/2019;15:00:34.072;- INFO:;[AQPa] PEPPER > I can help you play a Memory Game with pictures about British Festivals, British monuments and many other topics. Please tell me which topic you choose.
+26/11/2019;15:00:50.318;- INFO:;[    ] USER > when was the monument please
+26/11/2019;15:00:52.778;- INFO:;[AQCo] PEPPER > Do you want to play with pictures of Indian monuments?
+26/11/2019;15:00:58.688;- INFO:;[    ] USER > next please
+26/11/2019;15:01:00.757;- INFO:;[AMNo] PEPPER > Sorry, I am not sure I understood what you said. Please select an option on my tablet.
+26/11/2019;15:01:07.523;- INFO:;[AQCo] PEPPER > Do you want to play with pictures of Indian monuments?
+26/11/2019;15:01:13.835;- INFO:;[    ] USER > [u'yes', 1]
+26/11/2019;15:01:13.836;- INFO:;[AMOt] PEPPER > Alright, let's play with pictures of Indian monuments.
+26/11/2019;15:01:18.177;- INFO:;[AMOt] PEPPER > First I will show you a picture for a few seconds, then I will ask you a few questions. Let's start!
+26/11/2019;15:01:26.898;- INFO:;[AQGe] PEPPER > Are you ready?
+26/11/2019;15:01:37.732;- INFO:;[    ] USER > yes I am ready
+26/11/2019;15:01:45.601;- INFO:;[    ] PEPPER > Which monument is in the photo?
+26/11/2019;15:01:50.769;- INFO:;[    ] USER > [u'Taj Mahal', 1]
+26/11/2019;15:01:50.769;- INFO:;[AMOt] PEPPER > That's correct! Well done!
+26/11/2019;15:01:53.111;- INFO:;[    ] PEPPER > What is the colour of the sari of the lady on the left side?
+26/11/2019;15:01:59.638;- INFO:;[    ] USER > [u'blue', 1]
+26/11/2019;15:01:59.641;- INFO:;[AMOt] PEPPER > That's correct! Well done!
+26/11/2019;15:02:03.436;- INFO:;[AQLo] PEPPER > Do you want to play again?
+26/11/2019;15:02:20.272;- INFO:;[    ] USER > no thanks I don't want to play a game
+26/11/2019;15:02:20.318;- INFO:;[AMOt] PEPPER > Fine.
+26/11/2019;15:02:21.260;- INFO:;[AMOt] PEPPER > It was fun to play with you!
+26/11/2019;15:02:24.704;- INFO:;[AQEv] PEPPER > Tell me, did you enjoy playing this game?
+26/11/2019;15:02:35.286;- INFO:;[    ] USER > yes I do
+26/11/2019;15:02:35.344;- INFO:;[AMOt] PEPPER > Thanks for telling me.
+26/11/2019;15:02:40.099;- DEBUG:;-------------------------------------------------------------------------------------
+26/11/2019;15:02:40.354;- INFO:;[RMOt] PEPPER > I am so happy to be here with you
+26/11/2019;15:02:44.640;- DEBUG:;-------------------------------------------------------------------------------------
